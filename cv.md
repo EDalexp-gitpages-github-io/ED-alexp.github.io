@@ -1,7 +1,7 @@
 # **Currículum Vitae de Harry Potter** :sparkles:
 
 ## **Información Personal** :mag_right:
-- **Nombre:** Harry James Potter
+- **Nombre:** Ionut Alexandru Paun
 - **Fecha de Nacimiento:** 31 de julio de 1980
 - **Lugar de Nacimiento:** Godric's Hollow, Inglaterra
 - **Email:** harry@hogwarts.com
